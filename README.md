@@ -6,7 +6,7 @@ Short link for this page: [http://cs.co/git-us2017](http://cs.co/git-us2017)
 # Spark Room
 
 * "git help room"
-* Self-provision here: TBD
+* Self-provision here: https://inv.ciscodevnetcloud.com/events/git-classroom
 
 # Git Learning Labs
 
