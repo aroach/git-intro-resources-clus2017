@@ -3,10 +3,9 @@ Resources for git intro session at CLUS 2017
 
 Short link for this page: [http://cs.co/git-us2017](http://cs.co/git-us2017)
 
-# Spark Room
+# Slides
 
-* "git help room"
-* Self-provision here: https://inv.ciscodevnetcloud.com/events/git-classroom
+* https://www.slideshare.net/aroach/intro-to-git-devnet1080-cisco-live-2018
 
 # Git Learning Labs
 
